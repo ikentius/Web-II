@@ -1,0 +1,18 @@
+.mainFrame{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.body{
+    background-color: #222831;
+    color: #EEEEEE;
+}
+.top-left{
+    position:absolute;
+    left: 10px;
+    top: 10px;
+}
+#grandpa{
+    background-color: #393E46;  
+    color: #EEEEEE;
+}
